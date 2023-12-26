@@ -1,4 +1,5 @@
 aenum==2.2.0
+geopandas
 affine==2.4.0
 anyio @ file:///Users/cbousseau/work/recipes/ci_py311/anyio_1677917528418/work/dist
 appnope @ file:///Users/cbousseau/work/recipes/ci_py311/appnope_1677917710869/work
